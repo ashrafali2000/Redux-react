@@ -15,7 +15,7 @@ function Home() {
  }
   return (
     <div className="App">
-      <h1>The Home Page</h1>
+      <h1>New Products</h1>
       <h3>We are using the (react-redux && redux) in this Project</h3>
       <h2>Products : {product}</h2>
       <div>
